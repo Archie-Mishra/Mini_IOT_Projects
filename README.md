@@ -1,2 +1,2 @@
 # IOT Projects
-This repo contains simple IOT project
+This repo contains simple IOT projects
